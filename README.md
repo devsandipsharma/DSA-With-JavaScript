@@ -8,7 +8,7 @@
 
     - [x] Variables
     - [x] Conditional Statement
-    - [ ] Ternary Operators and Switch Statements
+    - [x] Ternary Operators and Switch Statements
 
 - [ ] Looping
 - [ ] Arrays
