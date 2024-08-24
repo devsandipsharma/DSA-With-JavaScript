@@ -4,24 +4,24 @@
 
 ## Chapters 📕
 
-* Basic Coding
+- [x] Basic Coding
 
-    * Variables
-    * Conditional Statement
-    * Ternary Operators and Switch Statements
+    - [x] Variables
+    - [x] Conditional Statement
+    - [ ] Ternary Operators and Switch Statements
 
-* Looping
-* Arrays
-* DSA Exam 1
-* Bit Manipulation And Complexity
-* DSA Exam 2
-* OOPS, Binary Search, Map and Set
-* DSA Exam 3
-* Stacks & Queues
-* Linked List and Basic Recursion
-* DSA Exam 3
+- [ ] Looping
+- [ ] Arrays
+- [ ] DSA Exam 1
+- [ ] Bit Manipulation And Complexity
+- [ ] DSA Exam 2
+- [ ] OOPS, Binary Search, Map and Set
+- [ ] DSA Exam 3
+- [ ] Stacks & Queues
+- [ ] Linked List and Basic Recursion
+- [ ] DSA Exam 3
 
-## Connect with me 🎉
+## Connect with me 🎉🎉
 
 Hey there! I'm Sandeep Sharma, currently deep into learning Data Structures and Algorithms (DSA). If you're interested in connecting, discussing, or sharing insights about DSA and more, feel free to connect with me on LinkedIn. Let's learn and grow together!
 
