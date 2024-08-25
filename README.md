@@ -10,7 +10,11 @@
     - [x] Conditional Statement
     - [x] Ternary Operators and Switch Statements
 
-- [ ] Looping
+- [x] Looping
+
+    - [] While loop, do while loop, For Loops
+    - [] Pattern-based questions
+
 - [ ] Arrays
 - [ ] DSA Exam 1
 - [ ] Bit Manipulation And Complexity
