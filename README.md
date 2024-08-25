@@ -12,8 +12,8 @@
 
 - [x] Looping
 
-    - [ ] While loop, do while loop, For Loops
-    - [ ] Pattern-based questions
+    - [x] While loop, do while loop, For Loops
+    - [x] Pattern-based questions
 
 - [ ] Arrays
 - [ ] DSA Exam 1
