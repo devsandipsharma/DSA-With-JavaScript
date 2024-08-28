@@ -15,7 +15,11 @@
     - [x] While loop, do while loop, For Loops
     - [x] Pattern-based questions
 
-- [ ] Arrays
+- [x] Arrays
+
+    - [ ] Arrays Basics
+    - [ ] Subarrays and Sorting
+
 - [ ] DSA Exam 1
 - [ ] Bit Manipulation And Complexity
 - [ ] DSA Exam 2
