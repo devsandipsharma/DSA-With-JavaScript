@@ -17,10 +17,11 @@
 
 - [x] Arrays
 
-    - [ ] Arrays Basics
-    - [ ] Subarrays and Sorting
+    - [x] Arrays Basics
+    - [x] Subarrays and Sorting
 
-- [ ] DSA Exam 1
+- [x] DSA Exam 1
+
 - [ ] Bit Manipulation And Complexity
 - [ ] DSA Exam 2
 - [ ] OOPS, Binary Search, Map and Set
