@@ -22,7 +22,12 @@
 
 - [x] DSA Exam 1
 
-- [ ] Bit Manipulation And Complexity
+- [x] Bit Manipulation And Complexity
+
+    - [x] Bit Manipulation
+    - [ ] Time and Space complexity
+    - [ ] Strings
+
 - [ ] DSA Exam 2
 - [ ] OOPS, Binary Search, Map and Set
 - [ ] DSA Exam 3
